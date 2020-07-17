@@ -1,0 +1,33 @@
+{
+  "name": "official-yakushi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Loise",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "parse-ms": "2.1.0",
+    "canvas": "2.6.1",
+    "canvacord": "^3.0.9",
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.2.0",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.5",
+    "iheart": "^3.1.1",
+    "lyrics-finder": "^21.0.5",
+    "moment": "^2.27.0",
+    "ms": "^2.1.2",
+    "os": "^0.1.1",
+    "quick.db": "^7.1.1",
+    "simple-youtube-api": "^5.2.1",
+    "soundcloud-downloader": "^0.1.1",
+    "urban": "^0.3.2",
+    "ytdl-core": "^3.1.2",
+    "ytdl-core-discord": "^1.2.1",
+    "request": "2.88.2"
+  }
+}
